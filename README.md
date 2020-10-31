@@ -2,8 +2,7 @@
 Simple script that makes pretty PDF of form submissions
 
 ## About
-The main purpose of the script is to load a csv-file, ususally generated from Google Form responses, and compile them using `pdflatex`, given this is installed on the machine.
-
+The main purpose of the script is to load a csv-file, ususally generated from Google Form responses, and compile them using `pdflatex`, given this is installed on the machine. Script always outputs .tex-file as well, so user can copy-paste to preferred LaTeX-compiler, e.g. Overleaf.
 Comes in handy when preparing papers to General Assemblies.
 
 ## Usage
